@@ -1,2 +1,2 @@
 # info
-the info page
+# the info page
