@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.aaf02c9d.css",
-    "main.js": "/static/js/main.d55b97e0.js",
+    "main.css": "/static/css/main.d5c1ba15.css",
+    "main.js": "/static/js/main.a5526eee.js",
     "static/js/787.0a7d8851.chunk.js": "/static/js/787.0a7d8851.chunk.js",
     "static/media/WBTC.svg": "/static/media/WBTC.f207cf0b28ec61277389.svg",
     "static/media/deri-lite.svg": "/static/media/deri-lite.032989b7718cf4b98550.svg",
@@ -18,6 +18,7 @@
     "static/media/ADA.svg": "/static/media/ADA.57bd82637922e5be1690.svg",
     "static/media/ETH.svg": "/static/media/ETH.017d28018b651588b1af.svg",
     "static/media/LUNA.svg": "/static/media/LUNA.71b6b95be885627b0a57.svg",
+    "static/media/USDB.svg": "/static/media/USDB.f77a0e2a12c3f3769900.svg",
     "static/media/SXP.svg": "/static/media/SXP.15b2a8e35da9f4f40242.svg",
     "static/media/BTC.svg": "/static/media/BTC.b0bc0271ab5790f4d1c4.svg",
     "static/media/BTCB.svg": "/static/media/BTCB.63407f2782456f46fa7a.svg",
@@ -52,12 +53,12 @@
     "static/media/arrow-down.svg": "/static/media/arrow-down.19723889b1b707cc8b7f.svg",
     "static/media/arrow-up.svg": "/static/media/arrow-up.3fc6ee79fee16c5dbf87.svg",
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg",
-    "main.aaf02c9d.css.map": "/static/css/main.aaf02c9d.css.map",
-    "main.d55b97e0.js.map": "/static/js/main.d55b97e0.js.map",
+    "main.d5c1ba15.css.map": "/static/css/main.d5c1ba15.css.map",
+    "main.a5526eee.js.map": "/static/js/main.a5526eee.js.map",
     "787.0a7d8851.chunk.js.map": "/static/js/787.0a7d8851.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aaf02c9d.css",
-    "static/js/main.d55b97e0.js"
+    "static/css/main.d5c1ba15.css",
+    "static/js/main.a5526eee.js"
   ]
 }
