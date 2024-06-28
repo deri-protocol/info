@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1a54b038.css",
-    "main.js": "/static/js/main.513ef901.js",
+    "main.js": "/static/js/main.03122031.js",
     "static/js/787.0a7d8851.chunk.js": "/static/js/787.0a7d8851.chunk.js",
     "static/media/WBTC.svg": "/static/media/WBTC.f207cf0b28ec61277389.svg",
     "static/media/deri-lite.svg": "/static/media/deri-lite.032989b7718cf4b98550.svg",
@@ -15,6 +15,7 @@
     "static/media/UST.svg": "/static/media/UST.a94540cbe1c6723ef43c.svg",
     "static/media/Cake.svg": "/static/media/Cake.82e714df38ea84d07f6a.svg",
     "static/media/WETH.svg": "/static/media/WETH.454213ef715492ab4c5c.svg",
+    "static/media/deri-logo.png": "/static/media/deri-logo.42b178d488e576ff0229.png",
     "static/media/ADA.svg": "/static/media/ADA.57bd82637922e5be1690.svg",
     "static/media/ETH.svg": "/static/media/ETH.017d28018b651588b1af.svg",
     "static/media/LUNA.svg": "/static/media/LUNA.71b6b95be885627b0a57.svg",
@@ -54,11 +55,11 @@
     "static/media/arrow-up.svg": "/static/media/arrow-up.3fc6ee79fee16c5dbf87.svg",
     "static/media/menu.svg": "/static/media/menu.aa4c2f8f458a26a2ed7e.svg",
     "main.1a54b038.css.map": "/static/css/main.1a54b038.css.map",
-    "main.513ef901.js.map": "/static/js/main.513ef901.js.map",
+    "main.03122031.js.map": "/static/js/main.03122031.js.map",
     "787.0a7d8851.chunk.js.map": "/static/js/787.0a7d8851.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a54b038.css",
-    "static/js/main.513ef901.js"
+    "static/js/main.03122031.js"
   ]
 }
