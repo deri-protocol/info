@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.34f96320.css",
-    "main.js": "/static/js/main.abfa2b61.js",
+    "main.css": "/static/css/main.664edc48.css",
+    "main.js": "/static/js/main.2eacbd55.js",
     "static/js/787.0a7d8851.chunk.js": "/static/js/787.0a7d8851.chunk.js",
     "static/media/WBTC.svg": "/static/media/WBTC.933eb5074f1a88c4818e.svg",
     "static/media/deri-lite.svg": "/static/media/deri-lite.1993c2902756cdd6ce40.svg",
@@ -19,6 +19,7 @@
     "static/media/ADA.svg": "/static/media/ADA.16778aad2deaccebbc4f.svg",
     "static/media/ETH.svg": "/static/media/ETH.017d28018b651588b1af.svg",
     "static/media/LUNA.svg": "/static/media/LUNA.e49bae7d2e56a81ca09a.svg",
+    "static/media/CBBTC.svg": "/static/media/CBBTC.72a36e23b24e60df1335.svg",
     "static/media/USDB.svg": "/static/media/USDB.eaf0dd28e9f6bc26d7f3.svg",
     "static/media/SXP.svg": "/static/media/SXP.39f87b408544df857724.svg",
     "static/media/BTC.svg": "/static/media/BTC.db6e15a8db8b35fff7ad.svg",
@@ -26,6 +27,7 @@
     "static/media/LUSD.svg": "/static/media/LUSD.fa9435faa0e93e0abd42.svg",
     "static/media/MANTA.svg": "/static/media/MANTA.7763ffbfd572ec6b3a03.svg",
     "static/media/DAI.svg": "/static/media/DAI.56c92862737e54917cb0.svg",
+    "static/media/TAIKO.svg": "/static/media/TAIKO.95c36575490108087466.svg",
     "static/media/amusdc.svg": "/static/media/amusdc.a91be758534458fb7a2a.svg",
     "static/media/ARB.svg": "/static/media/ARB.faa42c96978b4291a6b0.svg",
     "static/media/BNB.svg": "/static/media/BNB.1518b6e15da034eba90a.svg",
@@ -54,12 +56,12 @@
     "static/media/arrow-down.svg": "/static/media/arrow-down.3242399ee4fa67534aa3.svg",
     "static/media/arrow-up.svg": "/static/media/arrow-up.978039f24e5085a46d6d.svg",
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg",
-    "main.34f96320.css.map": "/static/css/main.34f96320.css.map",
-    "main.abfa2b61.js.map": "/static/js/main.abfa2b61.js.map",
+    "main.664edc48.css.map": "/static/css/main.664edc48.css.map",
+    "main.2eacbd55.js.map": "/static/js/main.2eacbd55.js.map",
     "787.0a7d8851.chunk.js.map": "/static/js/787.0a7d8851.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.34f96320.css",
-    "static/js/main.abfa2b61.js"
+    "static/css/main.664edc48.css",
+    "static/js/main.2eacbd55.js"
   ]
 }
